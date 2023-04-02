@@ -1,4 +1,4 @@
-# Dgital-clock
+# Digital-clock
 digital clock interface using java for projects
 import javax.swing.*;
 import java.awt.*;
